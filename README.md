@@ -23,3 +23,5 @@ Ce projet propose un tableau de bord e-commerce regroupant les principaux KPIs m
   - revenue : Revenu par campagne
 
 ---
+[Dashboard](https://lookerstudio.google.com/reporting/848bb635-b9fa-4c39-93e1-497711614f54)    
+[Dashboard pdf](https://github.com/FabienHaury/Digital-Marketing-Metrics-KPIs/blob/main/Dashboard/Coffee_Barista_Marketing_Advertisements.pdf)

@@ -1,6 +1,6 @@
 <div align="center">
 
-# Digital Marketing Metrics KPIs
+# Indicateurs Clés de Performance et Métriques de Publicité Digitale : Suivi et Performance
 
 </div>
 Ce projet propose un tableau de bord e-commerce regroupant les principaux KPIs marketing (investissements, CPC, CPL, ROI, etc), en utilisant Looker Studio, afin de piloter la rentabilité des campagnes et identifier les leviers d’optimisation.
